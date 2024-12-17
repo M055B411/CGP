@@ -1,28 +1,33 @@
 ﻿  CG_Final.cpp
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(282,18): warning C4101: 'v' :참조되지 않은 지역 변수입니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(282,31): warning C4101: 'vn' :참조되지 않은 지역 변수입니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(282,24): warning C4101: 'vt' :참조되지 않은 지역 변수입니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(618,57): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(618,37): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(623,55): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(623,36): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(769,65): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(769,41): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(772,67): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(772,42): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(775,61): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(775,39): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(898,43): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(898,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1081,64): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1081,47): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1090,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1100,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1109,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1118,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(770,57): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(770,37): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(775,55): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(775,36): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(935,65): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(935,41): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(938,67): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(938,42): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(941,61): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(941,39): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1095,50): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1095,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1147,53): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1147,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1444,64): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1444,47): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1451,80): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1451,72): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1470,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1472,30): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1481,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1483,30): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1492,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1494,30): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1503,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\CG_Final\CG_Final.cpp(1505,30): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   코드를 생성하고 있습니다.
-  637 of 650 functions (98.0%) were compiled, the rest were copied from previous compilation.
-    6 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+  0 of 945 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   코드를 생성했습니다.
   CG_Final.vcxproj -> C:\Users\user\Desktop\ComputerGraphicsProject\CGP\CG_Final\x64\Release\CG_Final.exe
